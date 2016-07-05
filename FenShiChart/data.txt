@@ -1,0 +1,74 @@
+{"newList":[
+
+{"dateTime": "1月5",
+"securityID": "300277",
+"openPrice": "40.63",
+"nowPri": "3478.78",
+"highPrice": "40.63",
+"lowPrice": "40.63",
+"traNumber": "15600",
+"traAmount": "633828.0",
+"sumVolume": "15600",
+"sumValue": "633828.0",
+"maTimeSharing": "3478.78"
+},
+{"dateTime": "1月6",
+"securityID": "300277",
+"openPrice": "40.63",
+"nowPri": "3539.81",
+"highPrice": "40.63",
+"lowPrice": "40.63",
+"traNumber": "15600",
+"traAmount": "633828.0",
+"sumVolume": "15600",
+"sumValue": "633828.0",
+"maTimeSharing": "3539.81"
+},
+{"dateTime": "1月7", "securityID": "300277", "openPrice": "40.63", "nowPri": "3294.38", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3294.38"},
+
+{"dateTime": "1月8", "securityID": "300277", "openPrice": "40.63", "nowPri": "3361.56", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3361.56"},
+
+{"dateTime": "1月11", "securityID": "300277", "openPrice": "40.63", "nowPri": "3192.45", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3192.45"},
+
+{"dateTime": "1月12", "securityID": "300277", "openPrice": "40.63", "nowPri": "3215.71", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3215.71"},
+
+{"dateTime": "1月13", "securityID": "300277", "openPrice": "40.63", "nowPri": "3155.88", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3155.88"},
+
+{"dateTime": "1月14", "securityID": "300277", "openPrice": "40.63", "nowPri": "3221.57", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3221.57"},
+
+{"dateTime": "1月15", "securityID": "300277", "openPrice": "40.63", "nowPri": "3118.73", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3118.73"},
+
+{"dateTime": "1月18", "securityID": "300277", "openPrice": "40.63", "nowPri": "3130.73", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3130.73"},
+
+
+{"dateTime": "1月19", "securityID": "300277", "openPrice": "40.63", "nowPri": "3223.13", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3223.13"},
+
+{"dateTime": "1月20", "securityID": "300277", "openPrice": "40.63", "nowPri": "3174.38", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3174.38"},
+
+{"dateTime": "1月21", "securityID": "300277", "openPrice": "40.63", "nowPri": "3081.35", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3081.35"},
+
+{"dateTime": "1月22", "securityID": "300277", "openPrice": "40.63", "nowPri": "3113.46", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3113.46"},
+
+{"dateTime": "1月25", "securityID": "300277", "openPrice": "40.63", "nowPri": "3128.89", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "3128.89"},
+
+{"dateTime": "1月26", "securityID": "300277", "openPrice": "40.63", "nowPri": "2940.51", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2940.51"},
+
+{"dateTime": "1月27", "securityID": "300277", "openPrice": "40.63", "nowPri": "2930.35", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2930.35"},
+
+{"dateTime": "1月28", "securityID": "300277", "openPrice": "40.63", "nowPri": "2853.76", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2853.76"},
+
+{"dateTime": "1月29", "securityID": "300277", "openPrice": "40.63", "nowPri": "2946.09", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2946.09"},
+
+{"dateTime": "2月1", "securityID": "300277", "openPrice": "40.63", "nowPri": "2901.05", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2901.05"},
+
+{"dateTime": "2月2", "securityID": "300277", "openPrice": "40.63", "nowPri": "2961.33", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2961.33"},
+
+{"dateTime": "2月3", "securityID": "300277", "openPrice": "40.63", "nowPri": "2948.64", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2948.64"},
+
+{"dateTime": "2月4", "securityID": "300277", "openPrice": "40.63", "nowPri": "2984.76", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2984.76"},
+
+{"dateTime": "2月5", "securityID": "300277", "openPrice": "40.63", "nowPri": "2963.79", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2963.79"},
+
+{"dateTime": "2月15", "securityID": "300277", "openPrice": "40.63", "nowPri": "2946.71", "highPrice": "40.63", "lowPrice": "40.63", "traNumber": "15600", "traAmount": "633828.0", "sumVolume": "15600", "sumValue": "633828.0", "maTimeSharing": "2946.71"}
+],
+"yesterdayEndPri":"40.25"}
